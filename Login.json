@@ -1,12 +1,12 @@
 [
   {
-    "username": "user1",
-    "password": "pass1",
+    "username": "Retired",
+    "password": "gamer",
     "vip": true
   },
   {
-    "username": "user2",
-    "password": "pass2",
+    "username": "poor",
+    "password": "kid",
     "vip": false
   }
 ]
