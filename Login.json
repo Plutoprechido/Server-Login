@@ -1,14 +1,12 @@
 [
   {
-    "username": "goat",
-    "password": "unique"
+    "username": "user1",
+    "password": "pass1",
+    "vip": true
   },
   {
     "username": "user2",
-    "password": "pass2"
-  },
-  {
-    "username": "user3",
-    "password": "pass3"
+    "password": "pass2",
+    "vip": false
   }
 ]
