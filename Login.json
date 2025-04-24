@@ -1,12 +1,14 @@
 [
   {
-    "username": "Retired",
-    "password": "gamer",
-    "vip": true
+    "username": "freeuser1",
+    "password": "pass123",
+    "vip": false,
+    "startDate": "2024-04-17"
   },
   {
-    "username": "poor",
-    "password": "kid",
-    "vip": false
+    "username": "vipuser",
+    "password": "vip123",
+    "vip": true,
+    "startDate": "2024-04-10"
   }
 ]
