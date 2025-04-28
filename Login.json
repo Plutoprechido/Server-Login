@@ -1,14 +1,4 @@
 [
-  {
-    "username": "freeuser1",
-    "password": "pass123",
-    "vip": false,
-    "startDate": "2025-04-23"
-  },
-  {
-    "username": "vipuser",
-    "password": "vip123",
-    "vip": true,
-    "startDate": "2025-08-10"
-  }
+  {"username":"admin", "password":"1234", "vip":true},
+  {"username":"guest", "password":"5678", "vip":false}
 ]
