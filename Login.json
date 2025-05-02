@@ -1,4 +1,12 @@
 [
-  {"username":"admin", "password":"1234", "vip":true},
-  {"username":"guest", "password":"5678", "vip":false}
+  {
+    "username": "Prexh",
+    "password": "leet123",
+    "vip": true
+  },
+  {
+    "username": "testuser",
+    "password": "test123",
+    "vip": false
+  }
 ]
